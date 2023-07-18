@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\New folder\C#StringArrayPuls\Practic\PracticStringArray\PracticStringArray\bin\Debug\net6.0\PracticStringArray.exe
+C:\Users\user\Desktop\New folder\C#StringArrayPuls\Practic\PracticStringArray\PracticStringArray\bin\Debug\net6.0\PracticStringArray.deps.json
+C:\Users\user\Desktop\New folder\C#StringArrayPuls\Practic\PracticStringArray\PracticStringArray\bin\Debug\net6.0\PracticStringArray.runtimeconfig.json
+C:\Users\user\Desktop\New folder\C#StringArrayPuls\Practic\PracticStringArray\PracticStringArray\bin\Debug\net6.0\PracticStringArray.dll
+C:\Users\user\Desktop\New folder\C#StringArrayPuls\Practic\PracticStringArray\PracticStringArray\bin\Debug\net6.0\PracticStringArray.pdb
+C:\Users\user\Desktop\New folder\C#StringArrayPuls\Practic\PracticStringArray\PracticStringArray\obj\Debug\net6.0\PracticStringArray.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\C#StringArrayPuls\Practic\PracticStringArray\PracticStringArray\obj\Debug\net6.0\PracticStringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\C#StringArrayPuls\Practic\PracticStringArray\PracticStringArray\obj\Debug\net6.0\PracticStringArray.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\C#StringArrayPuls\Practic\PracticStringArray\PracticStringArray\obj\Debug\net6.0\PracticStringArray.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\C#StringArrayPuls\Practic\PracticStringArray\PracticStringArray\obj\Debug\net6.0\PracticStringArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\C#StringArrayPuls\Practic\PracticStringArray\PracticStringArray\obj\Debug\net6.0\PracticStringArray.dll
+C:\Users\user\Desktop\New folder\C#StringArrayPuls\Practic\PracticStringArray\PracticStringArray\obj\Debug\net6.0\refint\PracticStringArray.dll
+C:\Users\user\Desktop\New folder\C#StringArrayPuls\Practic\PracticStringArray\PracticStringArray\obj\Debug\net6.0\PracticStringArray.pdb
+C:\Users\user\Desktop\New folder\C#StringArrayPuls\Practic\PracticStringArray\PracticStringArray\obj\Debug\net6.0\PracticStringArray.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder\C#StringArrayPuls\Practic\PracticStringArray\PracticStringArray\obj\Debug\net6.0\ref\PracticStringArray.dll
